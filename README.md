@@ -1,25 +1,17 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+# 👋 Hi, I'm Sheng Hu!
 
+Welcome to my GitHub profile! 
+---
 
+## 🚀 About Me
+- 🔭 I’m currently pursuing my master degree in Columbia University
+- I am currently looking for a DA/DS job
+---
 
-## Hi there 👋
+## 🤝 Let's Connect!
+- LinkedIn:https://www.linkedin.com/in/sheng-hu-ba5a372a9/
+- Email:sh4595@columbia.edu
 
-<!--
-**Sheng7-66/Sheng7-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a master student in Columnbia University.
-- 🌱 I’m currently learning Quantitative Methods in the Social Sciences (QMSS).
-- 👯 I’m looking to collaborate on any projects related to DA or DS.
-- 🤔 I’m looking for DS/DA job.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
